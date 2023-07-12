@@ -1,0 +1,5 @@
+- “ We listen, we care, we deliver ”
+
+Texts: Calibri Bold Italic
+Size : 17 px
+Color: #ffffff, #09def7
